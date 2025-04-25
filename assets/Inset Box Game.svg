@@ -1,0 +1,15 @@
+<svg width="520" height="520" viewBox="0 0 520 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="520" height="520" fill="#BFBFBF"/>
+<path d="M6.10352e-05 516H4.00006L6.10352e-05 520V516Z" fill="#818181"/>
+<path d="M6.10352e-05 4H4.00006L6.10352e-05 0V4Z" fill="#818181"/>
+<rect x="6.10352e-05" y="4" width="4" height="512" fill="#818181"/>
+<path d="M4.00006 0L4.00005 4L6.10352e-05 -3.02617e-09L4.00006 0Z" fill="#818181"/>
+<path d="M516 0L516 4L520 3.02617e-09L516 0Z" fill="#818181"/>
+<rect width="4" height="512" transform="matrix(-2.52555e-06 1 -1 -7.56543e-10 516 0)" fill="#818181"/>
+<path d="M520 4L516 3.99998L520 0L520 4Z" fill="white"/>
+<path d="M520 516L516 516L520 520L520 516Z" fill="white"/>
+<rect width="4" height="512" transform="matrix(-1 -5.05109e-06 1.51309e-09 -1 520 516)" fill="white"/>
+<path d="M516 520L516 516L520 520L516 520Z" fill="white"/>
+<path d="M4.00006 520L4.00005 516L6.10352e-05 520L4.00006 520Z" fill="white"/>
+<rect width="4" height="512" transform="matrix(-2.52555e-06 -1 1 -7.56543e-10 4.00006 520)" fill="white"/>
+</svg>
