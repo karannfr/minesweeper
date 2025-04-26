@@ -1,5 +1,5 @@
 body{
-  background-color: #e5e5e5;
+  background-color: #212121;
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -86,6 +86,7 @@ p span{
   flex-direction: column;
   justify-content: start;
   margin: 70px;
+  margin-right: 0;
   background-color: #bfbfbf;
   align-items: center;
 }
