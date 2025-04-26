@@ -10,19 +10,43 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Press+Start+2P&display=swap" rel="stylesheet">
 </head>
 <body>
+  <div class="overlay"></div>
+  <div class="modal">
+    <p>Congratualtions, you have made a new highscore!!</p>
+    <input type="text" name="name" id="name" placeholder="Enter Name">
+  </div>
   <div class="game">
     <header>
-      <p><span>DOUBLE CLICK</span> TO REVEAL THE TILE OR <span>CLICK</span> TO PLACE A FLAG.<br> PRESS <span>R</span> TO START OR RESTART YOUR GAME.</p>
+      <p><span>RIGHT CLICK</span> TO REVEAL THE TILE OR <span>LEFT CLICK</span> TO PLACE A FLAG.<br> PRESS <span>R</span> TO START OR RESTART YOUR GAME.</p>
       <div class="timer">
-        <div class="count"></div>
-        <div class="count"></div>
-        <div class="count"></div>
+        <div class="count" id="hundred"></div>
+        <div class="count" id="ten"></div>
+        <div class="count" id="zero"></div>
       </div>
     </header>
     <section>
       <div class="tiles">
       </div>
     </section>
+  </div>
+  <div class="highscore">
+    <h3>High Scores</h3>
+    <div class="highscores">
+      <div class="table-name">
+        <p>-</p>
+        <p>-</p>
+        <p>-</p>
+        <p>-</p>
+        <p>-</p>
+      </div>
+      <div class="table-time">
+        <p>-</p>
+        <p>-</p>
+        <p>-</p>
+        <p>-</p>
+        <p>-</p>
+      </div>
+    </div>
   </div>
   <script src="script.js"></script>
 </body>
